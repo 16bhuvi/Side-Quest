@@ -162,9 +162,13 @@ Built as a productivity + gamification experiment to make self-improvement fun a
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Bhuvi Vishwakarma**
 GitHub: https://github.com/16bhuvi
+
+**Akshat Kumar Singh**
+Github: https://github.com/akshat-codes-exe
+
 
 ---
