@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Walk 5,000 steps outdoors",
+    "description": "Leave the headphones at home for the first half. Just walk and observe.",
+    "effort_minutes": 45,
+    "difficulty": "medium",
+    "category": "movement",
+    "is_screen_free": true,
+    "approved": true
+  },
+  {
+    "title": "Drink 8 glasses of water",
+    "description": "Keep a bottle nearby and finish it before dinner.",
+    "effort_minutes": 15,
+    "difficulty": "easy",
+    "category": "health",
+    "is_screen_free": true,
+    "approved": true
+  },
+  {
+    "title": "Plan tomorrow in 10 minutes",
+    "description": "Write the top 3 things you want to finish tomorrow and when you will do them.",
+    "effort_minutes": 10,
+    "difficulty": "easy",
+    "category": "discipline",
+    "is_screen_free": true,
+    "approved": true
+  },
+  {
+    "title": "Read 20 pages of a real book",
+    "description": "No phone, no audiobook. Just a book and a quiet space.",
+    "effort_minutes": 25,
+    "difficulty": "easy",
+    "category": "learning",
+    "is_screen_free": true,
+    "approved": true
+  },
+  {
+    "title": "Cook one meal from scratch",
+    "description": "Pick a simple meal and prepare it without ordering in.",
+    "effort_minutes": 60,
+    "difficulty": "medium",
+    "category": "craft",
+    "is_screen_free": true,
+    "approved": true
+  },
+  {
+    "title": "Have a real conversation",
+    "description": "Call or meet someone and keep your phone away for the whole talk.",
+    "effort_minutes": 30,
+    "difficulty": "medium",
+    "category": "social",
+    "is_screen_free": true,
+    "approved": true
+  },
+  {
+    "title": "Do a full 30-minute workout",
+    "description": "No shortcuts. Move continuously for the full half hour.",
+    "effort_minutes": 30,
+    "difficulty": "hard",
+    "category": "health",
+    "is_screen_free": true,
+    "approved": true
+  },
+  {
+    "title": "Clean one difficult area",
+    "description": "Pick a drawer, shelf, or corner you have been avoiding and reset it completely.",
+    "effort_minutes": 40,
+    "difficulty": "hard",
+    "category": "discipline",
+    "is_screen_free": true,
+    "approved": true
+  }
+]
